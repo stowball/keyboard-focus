@@ -1,0 +1,25 @@
+{
+  "name": "keyboard-focus",
+  "authors": [
+    "Matt Stow <matt@mattstow.com>"
+  ],
+  "description": "A rudimentary way to detect users that navigate with the Tab key",
+  "main": "index.js",
+  "keywords": [
+    "keyboard",
+    "focus",
+    "user",
+    "tab",
+    "accessibility",
+    "a11y"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/stowball/keyboard-focus",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
