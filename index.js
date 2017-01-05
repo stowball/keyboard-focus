@@ -2,7 +2,6 @@
     'use strict';
 
     function keyboardFocus (e) {
-
         if (e.keyCode !== 9) {
             return;
         }
